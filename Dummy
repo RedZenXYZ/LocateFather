@@ -270,4 +270,4 @@ game:GetService("Players").LocalPlayer.CharacterAdded:Connect(function()
 	end
 end)
 
-loadstring(game:HttpGet('https://pastebin.com/raw/2U35hhrq'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RedZenXYZ/RedCommands/main/RedAdmin"))()
